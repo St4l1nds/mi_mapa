@@ -1,8 +1,8 @@
 ﻿﻿<?xml version="1.0" encoding="utf-8"?><kml><Document><name>Zona de Cobertura</name><Schema id="temp" /><!-- ESTILO DEL POLÍGONO -->
     <Style id="estiloPoligono">
         <LineStyle>
-            <color>aaeeee02</color>  <!-- Borde color #02eeee -->
-            <width>2</width>         <!-- Grosor del borde -->
+            <color>ffffffff</color>  <!-- Borde colorrgb(255, 255, 255) -->
+            <width>5</width>         <!-- Grosor del borde -->
         </LineStyle>
         <PolyStyle>
             <color>afffffaa</color>  <!-- Relleno color #aaffff -->
